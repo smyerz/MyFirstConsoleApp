@@ -1,0 +1,14 @@
+/Users/maugrins/p/consoleApp/MyFirstConsoleApp/MyFirstConsoleApp/bin/Debug/net9.0/MyFirstConsoleApp
+/Users/maugrins/p/consoleApp/MyFirstConsoleApp/MyFirstConsoleApp/bin/Debug/net9.0/MyFirstConsoleApp.deps.json
+/Users/maugrins/p/consoleApp/MyFirstConsoleApp/MyFirstConsoleApp/bin/Debug/net9.0/MyFirstConsoleApp.runtimeconfig.json
+/Users/maugrins/p/consoleApp/MyFirstConsoleApp/MyFirstConsoleApp/bin/Debug/net9.0/MyFirstConsoleApp.dll
+/Users/maugrins/p/consoleApp/MyFirstConsoleApp/MyFirstConsoleApp/bin/Debug/net9.0/MyFirstConsoleApp.pdb
+/Users/maugrins/p/consoleApp/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/net9.0/MyFirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maugrins/p/consoleApp/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/net9.0/MyFirstConsoleApp.AssemblyInfoInputs.cache
+/Users/maugrins/p/consoleApp/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/net9.0/MyFirstConsoleApp.AssemblyInfo.cs
+/Users/maugrins/p/consoleApp/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/net9.0/MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+/Users/maugrins/p/consoleApp/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/net9.0/MyFirstConsoleApp.dll
+/Users/maugrins/p/consoleApp/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/net9.0/refint/MyFirstConsoleApp.dll
+/Users/maugrins/p/consoleApp/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/net9.0/MyFirstConsoleApp.pdb
+/Users/maugrins/p/consoleApp/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/net9.0/MyFirstConsoleApp.genruntimeconfig.cache
+/Users/maugrins/p/consoleApp/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/net9.0/ref/MyFirstConsoleApp.dll
